@@ -17,7 +17,7 @@ remove via the web inspector in Chrome or Safari.
 
 This gem works with OS X or Windows with Ruby 1.9. 
 
-First time installing Ruby on windows? Try [Rubyinstaller](http://http://rubyinstaller.org/). 
+First time installing Ruby on windows? Try [Rubyinstaller](http://rubyinstaller.org/). 
 
 ## Installation
 
